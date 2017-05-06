@@ -1,3 +1,6 @@
+
+#imx290 isp param
+
 # Modified by Hawkview Tool, 2017/05/04 14:59:36
 # Copyright (c) 2017 by Allwinnertech Co., Ltd.  http://www.allwinnertech.com
 

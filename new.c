@@ -1,1 +1,4 @@
+
+imx317_mipi or imx317_dvp
+
 6a3zCd7u/zzakWTFt3D1tOqviVk8ZRuO9je1rcilYuj7VL73vdk0FbBOV6zwtWwqUpDNsVbn1mgNvDInpPYdfCYRMYDZZ2Y5xIrAZbT0axkyGRazvsT4jK0Y1AhFe+V82B caijuncheng@allwinnertech.com

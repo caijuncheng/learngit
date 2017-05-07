@@ -5,7 +5,6 @@ index 704b016..54a4aba 100755
 @@ -359,10 +359,10 @@ int PreviewPresenter::NormalInit()
      // 添加camera id和recorder type id到id group
      GroupID src0_id = {CAM_NORMAL_0, ISE_UNUSED};
- 
 -    RecDescInfo grp0_rec0 = {src0_id, REC_720P30FPS, REC_NORMAL, STREAM_SENDER_NONE};
 -    grp0_rec_info_set.push_back(grp0_rec0);
 +    // RecDescInfo grp0_rec0 = {src0_id, REC_720P30FPS, REC_NORMAL, STREAM_SENDER_NONE};

@@ -10,6 +10,10 @@ how are you
 my name is abc.
 
 
+<<<<<<< HEAD
 
 
 jiguai
+=======
+hahahahhahahahahahah
+>>>>>>> dev

@@ -41,5 +41,4 @@ index 0dc964d..0a0fe49 100755
      param.cam_param_.setVideoSize(size);
  
      if (phy_cam_id == CAM_B) {
-
-     this is change param.
+     this is a param for change something.
